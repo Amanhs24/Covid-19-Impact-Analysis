@@ -1,29 +1,37 @@
-# COVID-19 Impact Analysis 🦠📊
+COVID-19 Impact Analysis – Python Project
+📌 Overview
+This project focuses on analyzing the impact of COVID-19 across the globe using Python. The goal is to understand the trends of confirmed cases, deaths, and recoveries over time, identify the most affected regions, and visualize patterns through charts and graphs.
 
-## 📌 Overview
-This project analyzes the global impact of COVID-19 using Python.  
-It explores trends in confirmed cases, recoveries, and deaths across different countries, along with visualizations for better understanding of the pandemic's effect.
+📊 Dataset
+Source: Kaggle COVID-19 Dataset (replace with actual dataset link)
 
-## 🔹 Key Features
-- Data cleaning and preprocessing using **Pandas**
-- Country-wise and date-wise COVID-19 case trends
-- Visualization of confirmed, recovered, and death cases
-- Statistical summary of the global impact
-- Identified top 10 most affected countries
+Description: The dataset contains daily records of COVID-19 confirmed cases, deaths, and recoveries for multiple countries and regions.
 
-## 🛠 Tools & Technologies
-- **Python**
-- **Pandas**
-- **Matplotlib**
-- **Seaborn**
-- **Jupyter Notebook**
+🛠 Tools & Technologies Used
+Programming Language: Python
 
-## 📂 Dataset Source
-The dataset was taken from Kaggle:  
-[COVID-19 Dataset on Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
+Libraries & Packages:
 
-## 📊 Sample Visualization 
-![COVID-19 Cases Graph](graph.png)
+Pandas – Data cleaning & manipulation
 
+NumPy – Numerical analysis
 
+Matplotlib – Visualization
+
+Seaborn – Statistical data visualization
+
+Plotly – Interactive charts
+
+IDE: Jupyter Notebook / VS Code
+
+📈 Key Analysis & Insights
+Country-wise distribution of COVID-19 cases
+
+Time-series trends of confirmed, recovered, and death cases
+
+Top affected countries analysis
+
+Mortality and recovery rate calculations
+
+Comparison of trends across continents
 
