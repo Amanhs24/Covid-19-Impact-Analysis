@@ -22,14 +22,8 @@ It explores trends in confirmed cases, recoveries, and deaths across different c
 The dataset was taken from Kaggle:  
 [COVID-19 Dataset on Kaggle](https://www.kaggle.com/datasets/imdevskp/corona-virus-report)
 
-## 📊 Sample Visualization
-*(Add your graph or chart screenshot here)*  
-Example:  
+## 📊 Sample Visualization 
 ![COVID-19 Cases Graph](graph.png)
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/covid19-impact-analysis.git
 
 
