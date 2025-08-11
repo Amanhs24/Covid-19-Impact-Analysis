@@ -1,37 +1,26 @@
-COVID-19 Impact Analysis – Python Project
-📌 Overview
-This project focuses on analyzing the impact of COVID-19 across the globe using Python. The goal is to understand the trends of confirmed cases, deaths, and recoveries over time, identify the most affected regions, and visualize patterns through charts and graphs.
+# 📊 COVID-19 Impact Analysis – Python Project
 
-📊 Dataset
-Source: Kaggle COVID-19 Dataset (replace with actual dataset link)
+## 📌 Overview
+This project analyzes the global impact of the COVID-19 pandemic using Python. It includes country-wise trends, mortality rates, recovery rates, and visualizations to better understand how the virus spread and its effects over time.
 
-Description: The dataset contains daily records of COVID-19 confirmed cases, deaths, and recoveries for multiple countries and regions.
+## 📂 Dataset
+- **Source:** [Kaggle COVID-19 Dataset](https://www.kaggle.com/) *(replace with actual link)*
+- **Description:** The dataset contains daily updates of confirmed cases, recoveries, and deaths from various countries.
 
-🛠 Tools & Technologies Used
-Programming Language: Python
+## 🛠 Tools & Technologies
+- **Programming Language:** Python
+- **Libraries Used:**
+  - Pandas – Data cleaning & manipulation
+  - NumPy – Numerical analysis
+  - Matplotlib – Data visualization
+  - Seaborn – Statistical charts
+  - Plotly – Interactive graphs
+- **IDE:** Jupyter Notebook / VS Code
 
-Libraries & Packages:
-
-Pandas – Data cleaning & manipulation
-
-NumPy – Numerical analysis
-
-Matplotlib – Visualization
-
-Seaborn – Statistical data visualization
-
-Plotly – Interactive charts
-
-IDE: Jupyter Notebook / VS Code
-
-📈 Key Analysis & Insights
-Country-wise distribution of COVID-19 cases
-
-Time-series trends of confirmed, recovered, and death cases
-
-Top affected countries analysis
-
-Mortality and recovery rate calculations
-
-Comparison of trends across continents
+## 📈 Key Analysis
+- Country-wise distribution of COVID-19 cases
+- Trends of confirmed, recovered, and death cases over time
+- Top 10 most affected countries
+- Mortality and recovery rate calculations
+- Comparison between continents
 
